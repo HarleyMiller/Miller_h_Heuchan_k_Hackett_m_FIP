@@ -88,9 +88,9 @@ https://github.com/
 
 License
 
--Need to check files may be different than MIT?
+-Need to check files for liscense info.
 
-Our project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for further details
+Our project is licensed under the ____ License.
 
 Acknowledgments
 
