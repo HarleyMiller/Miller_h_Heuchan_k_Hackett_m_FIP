@@ -35,7 +35,7 @@ Example
 End with a full example of the data retrieval process and showing the data retrieved, some kind of demo.
 
 
-(Automated Tests? - Section Incomplete so far)
+(Automated Tests?)
 
 Running the tests
 
