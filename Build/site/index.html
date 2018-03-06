@@ -5,8 +5,98 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Organ Donation of Ontario</title>
+  <link href="styles/meyerReset.css" rel="stylesheet" type="text/css">
+  <link href="styles/foundation.css" rel="stylesheet" type="text/css">
+  <link href="styles/main.css" rel="stylesheet" type="text/css" media="screen">
+  <!-- Generate favicon of whatever logo we create / use & enter corresponding code here -->
 </head>
 <body>
+
+  <header class="row header">
+  	<h2 class="hidden">Main Navigation</h2>
+
+  <div class="medium-3 columns fip-logo">
+   	<a href="index.html">
+   		<img src="images/.png" alt="Organ Donation of Ontario Logo"> <!-- Figure out logo situation -->
+   	</a>
+  </div>
+
+  <div class="medium-9 columns navigation"> <!-- Single page App directing to other parts of page or multiple page site -->
+      <nav id="mainNav">
+  	<ul>
+      	<li><a href="video.html">Video</a></li>
+      	<li><a href="information.html">Information</a></li>
+      	<li><a href="event.php">Event</a></li> <!-- using .php because there is likely to be a sign up form to donate or get sent into to register -->
+      </ul>
+  </nav>
+  </div>
+  </header>
+
+  <div class="row">
+<div class="large-4 columns vidBanner">
+	<h1>Video Title</h1> <!-- Swap out title and paragraph using js or Ajax? -->
+		<p>Video Details</p>
+</div>
+
+<div class="large-4 columns vidPlayList">
+  <!-- Slider under video thumbnail, video slider function, Research how to implement functionality -->
+</div>
+
+
+<!-- This area requires re-arranging, a button on either side to navigate through organ pages -->
+<div class="large-4 columns information">
+<!-- Button to expand and collapse information area -->
+  <h1>Organ Name</h1> <!-- Swap out title/details/img same as vid above with js or AJAX -->
+		<p>Organ Donation Details</p>
+  <img src="img/" alt="Image highlighting organ discussed">
+  <button id="learnMore">Learn More</button>
+</div>
+
+
+<!--Split this section up into it's own 12 column div instead of infoTabs2,3 etc -->
+<div class="large-4 columns infoTabs">
+ <h1>Organs</h1>
+</div>
+
+<div class="large-4 columns infoTabs2">
+ <h1>Probability</h1>
+   <p></p>
+</div>
+
+<div class="large-4 columns infoTabs3">
+ <h1>Testimonials</h1>
+   <p></p>
+</div>
+
+<div class="large-4 columns infoTabs4">
+ <h1>Why Should I Donate?</h1>
+   <p></p>
+</div>
+
+ <div class="large-4 columns event">
+ 	<h1>Follow Our Journey</h1> <!-- include img tag and have a img behind text -->
+    <p></p>
+</div>
+
+</div>
+
+<div class="row">
+<div class="large-12 columns toTop">
+	<h2 class="hidden">Back To Top</h2>
+		<a href="index.html">
+      <p>Back To Top</p> <!-- If changed to img include alt tag -->
+    </a>
+</div>
+</div>
+
+<div class="row">
+<div class="large-12 columns copyright">
+	<h2 class="hidden">Copyright</h2>
+		<p>Organ Donation of Ontario</p>
+</div>
+</div>
+
+<script src="js/main.js"></script>
 
 </body>
 </html>
