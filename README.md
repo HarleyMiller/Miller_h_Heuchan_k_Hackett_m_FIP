@@ -3,7 +3,7 @@ https://github.com/HarleyMiller/Miller_h_Heuchan_k_Hackett_m_FIP
 
 Final Integrated Project - Organ Donation of Ontario
 
-Description Here - 1 paragraph
+Our site focuses on drawing attention to the high demand for donors, pursuing viewers to donate using video shorts that are very impactful. A timeline of the growth and events that have been held is shown, along with promoting future events. This shows viewers that many people have been gracious and many lives have been saved due to that but there is still so much more the human race can do to save those in need of a transplant. Through our site we aim to prove to viewers that donating can mean improving someones quality of life, or even better; saving it. Information is given on some organs that are most commonly donated, and viewers may even have an optiion to fill out a form to become a donor, or get a package sent to them with further information and a way to sign up. 
 
 To Get Started
 
