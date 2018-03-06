@@ -90,7 +90,7 @@ License
 
 -Need to check files for liscense info.
 
-Our project is licensed under the ____ License.
+Our project is licensed under the ____ license.
 
 Acknowledgments
 
