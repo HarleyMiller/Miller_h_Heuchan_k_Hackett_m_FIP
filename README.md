@@ -94,4 +94,4 @@ Our project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)
 
 Acknowledgments
 
-Links to tutorials used / Links to stock assets used
+Links to tutorials used, including timestamps / Links to stock assets used
